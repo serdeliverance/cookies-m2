@@ -1,7 +1,10 @@
 import React from 'react'
+import AboutPage from './about'
 
-export const ContactPage = () => {
+const ContactPage = () => {
   return (
     <div>ContactPage</div>
   )
 }
+
+export default AboutPage
